@@ -1,0 +1,3 @@
+# Project exclude paths
+/MAIN/ImageFiltering/cmake-build-debug/
+/MAIN/ImageFiltering/cmake-build-release/

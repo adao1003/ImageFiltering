@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/adao1003/Documents/JA/Zrodla/SO_C/library.cpp
+library.h
+/home/adao1003/Documents/JA/Zrodla/SO_C/library.h
+iostream
+-
+
+/home/adao1003/Documents/JA/Zrodla/SO_C/library.h
+

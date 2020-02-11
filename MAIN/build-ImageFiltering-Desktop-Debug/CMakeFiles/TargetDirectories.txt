@@ -1,0 +1,4 @@
+/home/adao1003/JA/build-ImageFiltering-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/adao1003/JA/build-ImageFiltering-Desktop-Debug/CMakeFiles/ImageFiltering.dir
+/home/adao1003/JA/build-ImageFiltering-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/adao1003/JA/build-ImageFiltering-Desktop-Debug/CMakeFiles/ImageFiltering_autogen.dir
